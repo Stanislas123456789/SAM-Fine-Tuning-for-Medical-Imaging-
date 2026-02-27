@@ -1,5 +1,3 @@
-# SAM-Fine-Tuning-for-Medical-Imaging-
-
 # SAM Fine-Tuning on Kvasir-SEG
 ### Medical Image Segmentation — Polyp Detection
 
